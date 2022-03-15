@@ -1,6 +1,6 @@
 <a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kapil </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreya </h1>
 <h3 align="center">I am a Full Stack Web Developer. I like building new stuff and work with other people.</h3>
 
 
@@ -12,9 +12,9 @@
 <!-- 
 - 👯 I’m looking to collaborate on *OpenSource Projects* -->
 
-<!-- - 👨‍💻 All of my projects are available at *[My Portfolio](https://subhamraoniar.com)* -->
+<!-- - 👨‍💻 All of my projects are available at *[My Portfolio](https:// --)* -->
 
-<!-- - 📫 How to reach me *kapilmogre1998@gmail.com* -->
+<!-- - 📫 How to reach me *spannase@gmail.com* -->
 
 <!-- - ⚡ Fun fact *I like to play football but I don't watch much* -->
 
@@ -26,7 +26,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,16 +38,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/kapilmogre1998/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilmogre1998&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/spannase/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=spannase&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/kapilmogre1998/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kapilmogre1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kapilmogre1998/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/spannase/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spannase&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/spannase/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spannase&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,8 +59,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/kapil-mogre" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://kapilmogre1998@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/shreya-pannase-382814214/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://shreya16pannase@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
