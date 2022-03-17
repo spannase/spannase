@@ -9,12 +9,12 @@
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning *React,Data Structures and Algorithms*
-<!-- 
-- 👯 I’m looking to collaborate on *OpenSource Projects* -->
 
-<!-- - 👨‍💻 All of my projects are available at *[My Portfolio](https:// --)* -->
+- 👯 I’m looking to collaborate on *OpenSource Projects* 
 
-<!-- - 📫 How to reach me *spannase@gmail.com* -->
+- 👨‍💻 All of my projects are available at *[My Portfolio](https:// --)*
+
+- 📫 How to reach me *shreya16pannase@gmail.com*
 
 <!-- - ⚡ Fun fact *I like to play football but I don't watch much* -->
 
@@ -56,7 +56,7 @@
 <br/>
 
 
-## Connect with me:
+##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shreya-pannase-382814214/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
