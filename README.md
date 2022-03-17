@@ -16,7 +16,9 @@
 
 - 📫 How to reach me *shreya16pannase@gmail.com*
 
-<!-- - ⚡ Fun fact *I like to play football but I don't watch much* -->
+- ⚡ Fun fact *I like to play badminton and travelling*
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sJJm6y29wVXSBhkuuChZfhQfqU7TZ49l/view?usp=sharing)
 
 ## 🚀 Languages and Tools:
 
