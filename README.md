@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects* 
 
-- 👨‍💻 All of my projects are available at *[My Portfolio](https:// --)*
+- 👨‍💻 All of my projects are available at *[My Portfolio](https://my-portfolio-main-dpoavci1c-shreya16pannase-gmailcom.vercel.app/)*
 
 - 📫 How to reach me *shreya16pannase@gmail.com*
 
